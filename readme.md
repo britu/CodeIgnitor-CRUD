@@ -1,4 +1,4 @@
-#### ** "Simple Codeigniter CRUD application (Create, Read, Update, Delete)"  MySql and Bootstrap 4 and concept to work with CodeIgnitor ** 
+**"Simple Codeigniter CRUD application (Create, Read, Update, Delete)"  MySql and Bootstrap 4 and concept to work with CodeIgnitor ** 
 
 - How to configure a Codeigniter framework using config.php
 - How to configure a database connection using database.php file
@@ -23,8 +23,8 @@
 	R :- Read
 	U :- Update
 	D :- Delete
-*** Follow are the step to create a CRUD Application in Codeigniter framework. ***
-
+	
+** Follow are the step to create a CRUD Application in Codeigniter framework.**
 
 	1) Download and Extract the Codeigniter framework in the htdocs folder.
 	2) Configure Codeigniter using config.php and database.php and autoload libraries like session, database, form_validation, etc.
