@@ -16,9 +16,9 @@
 
 ---------
 
-***The follow instruction are the way to start the project and these way CRUD Application made. ***
+**The follow instruction are the way to start the project and these way CRUD Application made.**
 
-**CRUD Application **
+**CRUD Application**
 
 	C :- Create
 	R :- Read
