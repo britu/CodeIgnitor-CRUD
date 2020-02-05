@@ -19,6 +19,7 @@
 *** The follow instruction are the way to start the project and these way CRUD Application made. ***
 
 ** CRUD Application **
+
 	C :- Create
 	R :- Read
 	U :- Update
@@ -34,6 +35,7 @@
 	7) Create a model called User Model in the models folder.
 
 **Add User:-**  
+
 	8) To show Add User form, create a method called "create" in User controller.
 	9) Load create view in "create" method.
 	10) Write a "create" method in the User model to save a User in the database.
@@ -41,12 +43,14 @@
 
 
 **List Users:-**
+
 	12) Create a method called "index" & Load "list" view in User controller to show all users using User_model.
 	13) Write an "All" method in the User model for fetching all the user records.
 	14) Write a loop to list all users in "list" view, also create an EDIT and DELETE button with links.
 
 
 **Edit User:-**
+
 	15) Create an edit method in User controller to edit a User
 	16) Write a "getUser" method in the User model to fetch a single user row.
 	17) Load edit user view to edit a user with prepopulate user data.
