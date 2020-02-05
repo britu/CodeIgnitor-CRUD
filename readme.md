@@ -1,4 +1,4 @@
-**"Simple Codeigniter CRUD application (Create, Read, Update, Delete)"  MySql and Bootstrap 4 and concept to work with CodeIgnitor ** 
+**"Simple Codeigniter CRUD application (Create, Read, Update, Delete)"  MySql and Bootstrap 4 and concept to work with CodeIgnitor** 
 
 - How to configure a Codeigniter framework using config.php
 - How to configure a database connection using database.php file
@@ -16,16 +16,16 @@
 
 ---------
 
-*** The follow instruction are the way to start the project and these way CRUD Application made. ***
+***The follow instruction are the way to start the project and these way CRUD Application made. ***
 
-** CRUD Application **
+**CRUD Application **
 
 	C :- Create
 	R :- Read
 	U :- Update
 	D :- Delete
 	
-** Follow are the step to create a CRUD Application in Codeigniter framework.**
+**Follow are the step to create a CRUD Application in Codeigniter framework.**
 
 	1) Download and Extract the Codeigniter framework in the htdocs folder.
 	2) Configure Codeigniter using config.php and database.php and autoload libraries like session, database, form_validation, etc.
@@ -59,6 +59,7 @@
 
 
 **Delete :-** 
+
 	20) Create a delete method in the User controller.
 	21) Write a "deleteUser" method in the User model to delete a user record from the database.
 	22) Check if a record found in DB, if found then delete and redirect to list page with success message, else redirect with an error message.
